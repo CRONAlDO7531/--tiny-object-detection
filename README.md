@@ -1,4 +1,4 @@
-# Awesome Tiny Object Detection
+#小目标检测资料
 A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Table of Contents
